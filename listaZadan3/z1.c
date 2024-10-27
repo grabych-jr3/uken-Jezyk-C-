@@ -6,7 +6,9 @@ void z1() {
     printf("Podaj liczbe: ");
     scanf("%d", &num);
 
-    for(int i = 0; i < 10; i++) {
+    int i = 0;
+    while(i < 10) {
         printf("%d\n", ++num);
+        i++;
     }
 }
