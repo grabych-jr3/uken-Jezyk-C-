@@ -11,19 +11,19 @@ void z5() {
         return;
     }
 
-    a(n);
-    b(n);
-    c(n);
-    d(n);
-    e(n);
-    f();
-    g(n);
-    h();
-    i();
-    j(n);
-    k(n);
-    l(n);
-    m(n);
+    aFor(n);
+    bFor(n);
+    cFor(n);
+    dFor(n);
+    eFor(n);
+    fFor();
+    gFor(n);
+    hFor();
+    iFor();
+    jFor(n);
+    kFor(n);
+    lFor(n);
+    mFor(n);
 }
 
 void a(int n) {
