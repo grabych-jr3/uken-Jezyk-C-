@@ -13,6 +13,8 @@
 #include "z11.h"
 #include "z12.h"
 #include "z13.h"
+#include "z14.h"
+#include "z15.h"
 
 int main(void) {
     // z1();
@@ -28,7 +30,8 @@ int main(void) {
     // z10();
     // z11();
     // z12();
-    z13();
-
+    // z13();
+    // z14();
+    // z15();
     return 0;
 }
