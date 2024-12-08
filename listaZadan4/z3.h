@@ -5,7 +5,8 @@
 #ifndef Z3_H
 #define Z3_H
 
-int silnia(int x);
+long long silnia(int n);
+long long symbol_newtona(int n, int k);
 void z3();
 
 #endif //Z3_H
