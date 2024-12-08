@@ -1,6 +1,7 @@
 #include <stdio.h>
+#include "z1.h"
 
 int main(void) {
-    printf("Hello, World!\n");
+    z1();
     return 0;
 }

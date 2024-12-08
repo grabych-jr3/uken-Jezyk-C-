@@ -3,4 +3,6 @@ project(listaZadan4 C)
 
 set(CMAKE_C_STANDARD 11)
 
-add_executable(listaZadan4 main.c)
+add_executable(listaZadan4 main.c
+        z1.h
+        z1.c)
