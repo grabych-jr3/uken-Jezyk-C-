@@ -10,6 +10,8 @@
 #include "z8b.h"
 #include "z9.h"
 #include "z10.h"
+#include "z11.h"
+#include "z12.h"
 
 int main(void) {
     // z1();
@@ -22,6 +24,8 @@ int main(void) {
     // z8a();
     // z8b();
     // z9();
-    z10();
+    // z10();
+    // z11();
+    z12();
     return 0;
 }
