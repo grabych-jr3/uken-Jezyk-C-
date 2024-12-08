@@ -5,6 +5,7 @@
 #include "z4.h"
 #include "z5.h"
 #include "z5For.h"
+#include "z6.h"
 
 int main(void)
 {
@@ -13,6 +14,7 @@ int main(void)
     // z3();
     // z4();
     // z5();
-    z5For();
+    // z5For();
+    z6();
     return 0;
 }
