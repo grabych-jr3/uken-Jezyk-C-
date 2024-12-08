@@ -8,6 +8,7 @@
 #include "z7.h"
 #include "z8a.h"
 #include "z8b.h"
+#include "z9.h"
 
 int main(void) {
     // z1();
@@ -19,5 +20,6 @@ int main(void) {
     // z7();
     // z8a();
     // z8b();
+    z9();
     return 0;
 }
