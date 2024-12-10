@@ -7,4 +7,6 @@ add_executable(listaZadan6 main.c
         z1.c
         z1.h
         z2.c
-        z2.h)
+        z2.h
+        z3.c
+        z3.h)
