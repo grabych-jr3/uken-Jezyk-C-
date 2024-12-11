@@ -9,4 +9,6 @@ add_executable(kolokwium2 main.c
         z2.c
         z2.h
         z3.c
-        z3.h)
+        z3.h
+        z4.c
+        z4.h)
